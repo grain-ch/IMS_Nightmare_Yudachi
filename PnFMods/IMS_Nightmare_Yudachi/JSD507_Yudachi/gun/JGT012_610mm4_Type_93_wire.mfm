@@ -1,0 +1,10 @@
+<JGT012_610mm4_Type_93_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/IMS_Nightmare_Yudachi/JSD507_Yudachi/gun/JGT012_610mm4_Type_93_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/IMS_Nightmare_Yudachi/JSD507_Yudachi/gun/JGT012_610mm4_Type_93_mg.dds	</Texture>
+	</property>
+</JGT012_610mm4_Type_93_wire.mfm>
