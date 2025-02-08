@@ -1,7 +1,6 @@
 <JGB107_Depth_Charge_Thrower_450mm_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/IMS_Nightmare_Yudachi/JSD507_Yudachi/gun/lods/JGB107_Depth_Charge_Thrower_450mm_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/IMS_Nightmare_Yudachi/JSD507_Yudachi/gun/JGB107_Depth_Charge_Thrower_450mm_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/IMS_Nightmare_Yudachi/JSD507_Yudachi/gun/JGB107_Depth_Charge_Thrower_450mm_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGB107_Depth_Charge_Thrower_450mm_dead.model>
